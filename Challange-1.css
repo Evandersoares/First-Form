@@ -12,26 +12,31 @@
     color:#1D00AD;
     text-decoration:underline;
     margin: 20px;
-    text-align: center;
+    text-align: left;
+    margin-left: 50px;
 }
 p{
     font-size: 35px;
     color:#AD9900;
-    text-align: center;
+    text-align: left;
     margin: 10px;
+    margin-left: 100px;
 }
 h2{
     font-size: 50px;
     color:#4019FF;
     text-decoration:underline;
-    text-align: center;
+    text-align: left;
     margin: 20px;
+    margin-left: 50px;
 }
 ul{
     font-size:35px ;
     color: #AD9900;
-    text-align: center;
+    text-align: left;
     right: 10px;
+    margin-left: 100px;
+    margin-bottom: 40px;
 
 
 }
@@ -42,36 +47,35 @@ a{
     text-decoration: none;
     cursor: pointer;
     margin: 10px 30px; 
-    text-rendering: ;
+    
 }
 h3{
     font-size: 50px;
     color:#4019FF;
     text-decoration:underline;
-    text-align: center;
-    margin:20px 10px;
+    text-align: left;
+    margin:20px ;
+    margin-left: 50px;
 }
 
 ol{
     font-size: 35px;
     color:#AD9900;
-    text-align: center;
+    text-align: left;
     line-height:50px ;
-
+    margin-left: 100px;
 }
 h4{
     font-size: 40px;
     color:#4019FF;
     text-decoration:underline;
-    text-align:center;
+    text-align: left;
     margin:20px 10px;
-}
-minha-foto{
-    color: #FADC00;
-    font-family: italic;
+    margin-left: 50px;
 }
 img{
-    margin: 30px 100px 0 1150px;
+    margin-left: 100px;
+    margin-top: 30px;
     width: 450;
     cursor: pointer;
 }
